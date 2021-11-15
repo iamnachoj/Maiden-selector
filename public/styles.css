@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Tangerine&display=swap");
+
+body {
+  background-color: #efa5ff;
+  margin: 0;
+  font-family: "Tangerine", cursive;
+  font-size: 200%;
+  text-align: center;
+}
+span {
+  font-size: 22px;
+}
+.title {
+  background-color: #fadfff;
+  padding: 100px 200px;
+  display: block;
+  box-sizing: border-box;
+  height: 500px;
+  clip-path: ellipse(186% 100% at 9.2% 0%);
+}
+.footer {
+  margin-top: 120px;
+}
